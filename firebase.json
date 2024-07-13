@@ -1,1 +1,29 @@
-{"flutter":{"platforms":{"ios":{"default":{"projectId":"spotify-ce027","appId":"1:807642866347:ios:97ad0042f0abada0e48dee","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"spotify-ce027","configurations":{"ios":"1:807642866347:ios:97ad0042f0abada0e48dee"}}}}}}
+{
+    "flutter": {
+        "platforms": {
+            "ios": {
+                "default": {
+                    "projectId": "spotify-ce027",
+                    "appId": "1:807642866347:ios:97ad0042f0abada0e48dee",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "spotify-ce027",
+                    "configurations": {
+                        "android": "1:807642866347:android:5b4ee6438de1a2f8e48dee"
+                    }
+                }
+            },
+            "android": {
+                "default": {
+                    "projectId": "spotify-ce027",
+                    "appId": "1:807642866347:android:5b4ee6438de1a2f8e48dee",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            }
+        }
+    }
+}

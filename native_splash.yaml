@@ -1,0 +1,9 @@
+# TODO : Flutter Native Splash
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  image: 'assets/images/splash/icons8-spotify-500.png'
+  color: '#ffffff'
+  color_dark: '#000000'

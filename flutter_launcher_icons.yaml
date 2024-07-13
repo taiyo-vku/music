@@ -1,0 +1,6 @@
+# TODO : Change icons
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: 'assets/icons/spotify_logo.png'
+  min_sdk_android: 23
