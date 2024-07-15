@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:iconsax/iconsax.dart';
 
 class TaiyoAppBar extends StatelessWidget implements PreferredSizeWidget {
   const TaiyoAppBar({super.key});
